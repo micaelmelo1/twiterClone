@@ -65,9 +65,9 @@ $erro = isset($_GET['erro']) ? $_GET['erro'] : 0;
 									<br/><br />
 								</form>
 								<?php
-								if ($erro == 1) {
-									echo '<font color="#FF0000"> Úsuario e/ou senha inválido(s).</font>';
-								}
+									if ($erro == 1) {
+										echo '<font color="#FF0000"> Úsuario e/ou senha inválido(s).</font>';
+									}
 								?>
 								</form>
 						</ul>
@@ -85,7 +85,7 @@ $erro = isset($_GET['erro']) ? $_GET['erro'] : 0;
 		<div class="jumbotron">
 			<h1>Twitter clone</h1>
 			<p>Meu projeto</p>
-			<p>HTML5 - PHP - CSS3</p>
+			<p>HTML5 - PHP - CSS3 - JAVASCRIPT</p>
 		</div>
 
 		<div class="clearfix"></div>
